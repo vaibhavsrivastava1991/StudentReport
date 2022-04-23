@@ -1,0 +1,12 @@
+C:\Users\VaibhavSrivastava\Desktop\StudentReport\ConsoleApp2\bin\Debug\netcoreapp3.1\StudentReport.exe
+C:\Users\VaibhavSrivastava\Desktop\StudentReport\ConsoleApp2\bin\Debug\netcoreapp3.1\StudentReport.deps.json
+C:\Users\VaibhavSrivastava\Desktop\StudentReport\ConsoleApp2\bin\Debug\netcoreapp3.1\StudentReport.runtimeconfig.json
+C:\Users\VaibhavSrivastava\Desktop\StudentReport\ConsoleApp2\bin\Debug\netcoreapp3.1\StudentReport.runtimeconfig.dev.json
+C:\Users\VaibhavSrivastava\Desktop\StudentReport\ConsoleApp2\bin\Debug\netcoreapp3.1\StudentReport.dll
+C:\Users\VaibhavSrivastava\Desktop\StudentReport\ConsoleApp2\bin\Debug\netcoreapp3.1\StudentReport.pdb
+C:\Users\VaibhavSrivastava\Desktop\StudentReport\ConsoleApp2\obj\Debug\netcoreapp3.1\StudentReport.AssemblyInfoInputs.cache
+C:\Users\VaibhavSrivastava\Desktop\StudentReport\ConsoleApp2\obj\Debug\netcoreapp3.1\StudentReport.AssemblyInfo.cs
+C:\Users\VaibhavSrivastava\Desktop\StudentReport\ConsoleApp2\obj\Debug\netcoreapp3.1\StudentReport.csproj.CoreCompileInputs.cache
+C:\Users\VaibhavSrivastava\Desktop\StudentReport\ConsoleApp2\obj\Debug\netcoreapp3.1\StudentReport.dll
+C:\Users\VaibhavSrivastava\Desktop\StudentReport\ConsoleApp2\obj\Debug\netcoreapp3.1\StudentReport.pdb
+C:\Users\VaibhavSrivastava\Desktop\StudentReport\ConsoleApp2\obj\Debug\netcoreapp3.1\StudentReport.genruntimeconfig.cache
